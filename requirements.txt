@@ -1,0 +1,5 @@
+jdatetime==5.2.0
+python-dotenv==1.2.1
+python-telegram-bot==22.5
+pytz==2025.2
+Requests==2.32.5
